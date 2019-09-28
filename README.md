@@ -1,4 +1,4 @@
-# Creating a business card
+o# Creating a business card
 
 You will create a business card to test your comprehension of fundamental CSS theory, syntax and mechanics.
 
